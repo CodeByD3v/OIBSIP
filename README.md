@@ -1,14 +1,14 @@
-# 🤖 Oasis Infobyte Machine Learning Internship
+# 🤖 Oasis Infobyte Data Science Internship
 
-Welcome to my **Machine Learning Internship Repository** with **Oasis Infobyte**!  
-This repository contains all the **tasks and projects** I completed during my internship, covering practical applications of **regression, classification, and data analysis** using Python and machine learning libraries.
+Welcome to my **Data Science Internship Repository** with **Oasis Infobyte**!  
+This repository contains all the **tasks and projects** I completed during my internship, covering practical applications of **regression, classification, and data analysis** using Python and data science libraries.
 
 ---
 
 ## 🚀 Internship Overview
 
-The **Oasis Infobyte Internship** offered a great opportunity to work on real-world data problems and strengthen my understanding of machine learning fundamentals.  
-Each task focuses on a specific ML concept — from data preprocessing and model training to evaluation and visualization.
+The **Oasis Infobyte Data Science Internship** offered a great opportunity to work on real-world data problems and strengthen my understanding of data science and analytics fundamentals.  
+Each task focuses on a specific concept — from data preprocessing and visualization to building predictive models and evaluating results.
 
 ---
 
@@ -25,7 +25,7 @@ Each task focuses on a specific ML concept — from data preprocessing and model
 ## 🧠 Key Learnings
 
 - Understanding **data preprocessing** and handling missing values  
-- Building **supervised ML models** (Regression & Classification)  
+- Building **supervised learning models** (Regression & Classification)  
 - Performing **Exploratory Data Analysis (EDA)** using visualization libraries  
 - Evaluating models using metrics like **R² Score**, **Accuracy**, and **Confusion Matrix**  
 - Strengthening hands-on experience with **Python**, **NumPy**, **Pandas**, and **Scikit-learn**
@@ -47,7 +47,7 @@ Each task focuses on a specific ML concept — from data preprocessing and model
 
 ### 🧩 Task 1 – Car Price Prediction
 A regression-based project that predicts car prices using features such as brand reputation, horsepower, and mileage.  
-**Goal:** Understand how different factors affect car pricing using ML algorithms.
+**Goal:** Understand how different factors affect car pricing using data science and regression analysis.
 
 🔗 [View Project Folder](./Car%20Sales)
 
@@ -55,7 +55,7 @@ A regression-based project that predicts car prices using features such as brand
 
 ### 📊 Task 2 – Sales Prediction using Advertisement
 This project predicts sales performance based on advertising investments in TV, Radio, and Newspaper.  
-**Goal:** Build a simple linear regression model to understand ad effectiveness on sales.
+**Goal:** Build a regression model to understand how marketing expenditure influences sales outcomes.
 
 🔗 [View Project Folder](./Sales%20Prediction%20using%20Advertising%20Data)
 
@@ -63,7 +63,7 @@ This project predicts sales performance based on advertising investments in TV, 
 
 ### 🌸 Task 3 – Iris Flower Classification
 A classification project using the famous Iris dataset to predict flower species.  
-**Goal:** Apply supervised learning techniques for accurate classification and model comparison.
+**Goal:** Apply supervised learning techniques for accurate classification and data-driven insights.
 
 🔗 [View Project Folder](./Iris%20Classification)
 
@@ -71,8 +71,8 @@ A classification project using the famous Iris dataset to predict flower species
 
 ## 🙌 Acknowledgment
 
-This repository was created as part of my **Oasis Infobyte Machine Learning Internship**.  
-Grateful for the learning experience that enhanced my understanding of practical ML applications.
+This repository was created as part of my **Oasis Infobyte Data Science Internship**.  
+Grateful for the learning experience that enhanced my understanding of practical data science concepts and model building.
 
 ---
 
