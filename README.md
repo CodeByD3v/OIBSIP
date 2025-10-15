@@ -16,9 +16,9 @@ Each task focuses on a specific ML concept — from data preprocessing and model
 
 | Task | Project Title | Description | Type |
 |------|----------------|-------------|------|
-| 🧩 **Task 1** | [Car Price Prediction](./Task1_Car_Price_Prediction) | Predicts car prices based on brand, horsepower, mileage, etc. | Regression |
-| 📊 **Task 2** | [Sales Prediction using Advertisement](./Task2_Sales_Prediction) | Predicts product sales based on advertising spend across TV, Radio, and Newspaper. | Regression |
-| 🌸 **Task 3** | [Iris Flower Classification](./Task3_Iris_Classification) | Classifies iris flower species using petal and sepal dimensions. | Classification |
+| 🧩 **Task 1** | [Car Price Prediction](./Car%20Sales) | Predicts car prices based on brand, horsepower, mileage, etc. | Regression |
+| 📊 **Task 2** | [Sales Prediction using Advertisement](./Sales%20Prediction%20using%20Advertising%20Data) | Predicts product sales based on advertising spend across TV, Radio, and Newspaper. | Regression |
+| 🌸 **Task 3** | [Iris Flower Classification](./Iris%20Classification) | Classifies iris flower species using petal and sepal dimensions. | Classification |
 
 ---
 
@@ -49,7 +49,7 @@ Each task focuses on a specific ML concept — from data preprocessing and model
 A regression-based project that predicts car prices using features such as brand reputation, horsepower, and mileage.  
 **Goal:** Understand how different factors affect car pricing using ML algorithms.
 
-🔗 [View Project Folder](./Task1_Car_Price_Prediction)
+🔗 [View Project Folder](./Car%20Sales)
 
 ---
 
@@ -57,7 +57,7 @@ A regression-based project that predicts car prices using features such as brand
 This project predicts sales performance based on advertising investments in TV, Radio, and Newspaper.  
 **Goal:** Build a simple linear regression model to understand ad effectiveness on sales.
 
-🔗 [View Project Folder](./Task2_Sales_Prediction)
+🔗 [View Project Folder](./Sales%20Prediction%20using%20Advertising%20Data)
 
 ---
 
@@ -65,7 +65,7 @@ This project predicts sales performance based on advertising investments in TV, 
 A classification project using the famous Iris dataset to predict flower species.  
 **Goal:** Apply supervised learning techniques for accurate classification and model comparison.
 
-🔗 [View Project Folder](./Task3_Iris_Classification)
+🔗 [View Project Folder](./Iris%20Classification)
 
 ---
 
